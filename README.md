@@ -1,38 +1,34 @@
 # Hi, I'm Ali 👋
 
-I'm a software engineer with a Master's in Software Engineering and a Bachelor's in Computer Science. I build backend systems, solve problems, and learn fast.
+I'm a software developer focused on building practical applications, designing backend systems, and solving problems through code. I enjoy understanding how things work under the hood and turning ideas into working software.
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Working On
 
-Currently focusing on **backend development with Django and Flask** while building toward IoT and AI integration. I'm sharpening my skills in PostgreSQL, Git, and exploring frontend fundamentals to understand the full stack.
+I'm currently developing my software engineering skills through hands-on projects, with an emphasis on **backend development, application logic, and databases**.
+
+I prefer learning by building real things, debugging problems, and understanding the decisions behind the code rather than simply following tutorials.
 
 ## 💻 Tech Stack
 
-**Languages:** Python, C, C++, JavaScript (learning)  
-**Frameworks & Tools:** Django, Flask, Pygame  
-**Databases:** PostgreSQL  
-**Systems:** Linux  
+**Languages:** Python, JavaScript, C, C++  
+**Backend:** Django, Django REST Framework, FastAPI, Flask  
+**Frontend:** Next.js, React  
+**Databases:** PostgreSQL, MySQL, MongoDB
+**Tools & Systems:** Git, Linux
 
-## 🛠️ What I Build
+## 🧠 What I Care About
 
-I enjoy creating practical applications and solving real problems through code. My foundation in algorithms and data structures (thanks to intensive mentorship and CS50x) helps me approach challenges systematically.
+I enjoy the problem-solving side of software engineering: understanding complex behavior, designing sensible data models, structuring application logic, and figuring out why something doesn't work.
 
-**Recent Projects:**
-- **Restaurant Web App** - Full-featured Django application with ordering, reservations, authentication, and cart functionality
-- **Snake Game** - OOP-based game built with Pygame, demonstrating clean architecture and separation of concerns
+I'm interested in building software that's maintainable, useful, and grounded in a solid understanding of how it works. I value practical experience, continuous improvement, and learning by doing.
 
-## 🎯 What Drives Me
-
-I'm drawn to building things that work and learning whatever it takes to do it right. Problem-solving is what I love most about programming - whether it's optimizing algorithms, designing databases, or figuring out the best way to structure an application.
-
-My long-term goal is IoT and AI integration, but right now I'm focused on mastering backend development and gaining real-world experience.
-
-## 📫 Let's Connect
+## 📫 Contact
 
 - **Email:** [alimehdizadeh127@gmail.com](mailto:alimehdizadeh127@gmail.com)
+- **GitHub:** You're already here.
 
-Open to opportunities, collaboration, and learning from other developers. If you're working on something interesting or need a backend developer who's eager to contribute, let's talk.
+I'm open to meaningful projects, collaboration, and opportunities to grow as a software developer.
 
 ---
 
-*CS50x Certificate Holder | Always Learning | Ready to Ship*
+*CS50x Certificate Holder | Learning by Building | Focused on Software Engineering*
