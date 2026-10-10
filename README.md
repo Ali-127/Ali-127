@@ -13,7 +13,7 @@ I prefer learning by building real things, debugging problems, and understanding
 **Languages:** Python, JavaScript, C, C++  
 **Backend:** Django, Django REST Framework, FastAPI, Flask  
 **Frontend:** Next.js, React  
-**Databases:** PostgreSQL, MySQL, MongoDB
+**Databases:** PostgreSQL, MySQL, MongoDB  
 **Tools & Systems:** Git, Linux
 
 ## 🧠 What I Care About
