@@ -1,34 +1,29 @@
-# Hi, I'm Ali 👋
+# Ali Mehdizadeh
 
-I'm a software developer focused on building practical applications, designing backend systems, and solving problems through code. I enjoy understanding how things work under the hood and turning ideas into working software.
+**Backend developer. Python, FastAPI, PostgreSQL.**
 
-## 🚀 What I'm Working On
+I build APIs and the data layer behind them. M.Sc. in Software Engineering.
 
-I'm currently developing my software engineering skills through hands-on projects, with an emphasis on **backend development, application logic, and databases**.
+## 🔨 Currently Building
 
-I prefer learning by building real things, debugging problems, and understanding the decisions behind the code rather than simply following tutorials.
+> A backend-driven web app (FastAPI + PostgreSQL + Next.js).
+
+<!-- When finished, replace the block above with:
+## 🛠️ Projects
+- **[Name](link)**: what it does, one line. *FastAPI · PostgreSQL · Docker*
+-->
 
 ## 💻 Tech Stack
 
-**Languages:** Python, JavaScript, C, C++  
-**Backend:** Django, Django REST Framework, FastAPI, Flask  
-**Frontend:** Next.js, React  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Tools & Systems:** Git, Linux
-
-## 🧠 What I Care About
-
-I enjoy the problem-solving side of software engineering: understanding complex behavior, designing sensible data models, structuring application logic, and figuring out why something doesn't work.
-
-I'm interested in building software that's maintainable, useful, and grounded in a solid understanding of how it works. I value practical experience, continuous improvement, and learning by doing.
+| Category | Technologies |
+|---|---|
+| **Backend** | Python · FastAPI · Django · Django REST Framework |
+| **Databases** | PostgreSQL · MySQL |
+| **Frontend** | JavaScript · React · Next.js |
+| **Tools & Systems** | Git · Linux |
 
 ## 📫 Contact
 
-- **Email:** [alimehdizadeh127@gmail.com](mailto:alimehdizadeh127@gmail.com)
-- **GitHub:** You're already here.
+[alimehdizadeh127@gmail.com](mailto:alimehdizadeh127@gmail.com) · [Portfolio](https://alimehdizadeh.vercel.app/)
 
-I'm open to meaningful projects, collaboration, and opportunities to grow as a software developer.
-
----
-
-*CS50x Certificate Holder | Learning by Building | Focused on Software Engineering*
+Open to backend developer roles.
